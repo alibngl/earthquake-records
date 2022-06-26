@@ -1,5 +1,5 @@
 # earthquake-records
-Intellij Idea
-Spring Framework 
-Maven Project Spring Boot 2.7.1
-https://start.spring.io/
+Intellij Idea <br />  
+Spring Framework <br />
+Maven Project Spring Boot 2.7.1 <br />
+https://start.spring.io/ <br />
